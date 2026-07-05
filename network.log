@@ -1,0 +1,5 @@
+INFO - 192.168.1.10 - User admin logged in successfully
+WARN - 10.0.0.5 - Failed login attempt
+CRITICAL - 172.16.0.2 - SQL Injection attack detected
+INFO -192.168.1.12 - Firewall updated
+CRITICAL - 10.0.0.7 - Reverse shell connection established
